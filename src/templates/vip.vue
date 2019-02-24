@@ -1,5 +1,7 @@
 <template>
-    <p>这是vip</p>
+    <main>
+        <p>这是vip</p>
+    </main>
 </template>
 
 <script>

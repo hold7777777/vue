@@ -1,5 +1,7 @@
 <template>
-    <p>这是购物车</p>
+    <main>
+        <p>这是购物车</p>
+    </main>
 </template>
 
 <script>

@@ -1,5 +1,7 @@
 <template>
-    <p>这是个人</p>
+   <main>
+       <p>这是个人</p>
+   </main>
 </template>
 
 <script>
